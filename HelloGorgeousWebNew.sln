@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGorgeousWebNew", "HelloGorgeousWebNew\HelloGorgeousWebNew.csproj", "{DDB07FDE-A4E0-497C-99C9-83AED8C365CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB07FDE-A4E0-497C-99C9-83AED8C365CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB07FDE-A4E0-497C-99C9-83AED8C365CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB07FDE-A4E0-497C-99C9-83AED8C365CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB07FDE-A4E0-497C-99C9-83AED8C365CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nitrotwyatt.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HelloGorgeousWebNew\\HelloGorgeousWebNew.csproj
+		SccProjectName1 = HelloGorgeousWebNew
+		SccLocalPath1 = HelloGorgeousWebNew
+	EndGlobalSection
+EndGlobal
