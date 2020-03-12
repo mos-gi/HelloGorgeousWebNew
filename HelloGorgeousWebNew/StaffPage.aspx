@@ -16,7 +16,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Staff</title>
+		<title>Staff and more 123445</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -131,7 +131,7 @@
 						        <img class="img-fluid" src="img/Staff/Carl.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Carl Green has been in the hair industry since the early 1980’s. He specializes in cuts, colors and perms for men and women. Carl has been a staple at Hello Gorgeous salon since the day it opened in 2004. He is available by appointment only. </marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Carl Green has been in the hair industry since the early 1980’s. He specializes in cuts, colors and perms for men and women. Carl has been a staple at Hello Gorgeous salon since the day it opened in 2004. He is available by appointment only. </marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -145,7 +145,7 @@
 						        <img class="img-fluid" src="img/Staff/Michelle.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Michelle Nugent has been in the hair industry for 18 years. She started her career in California before finally settling here in Oklahoma. Michelle is licensed in Cosmetology, Aesthetics, and Film/Photography Makeup. She is also certified in hair extensions and Keratin complex treatments.  She enjoys all aspects of the industry and especially the joy in her client’s faces when they get their hair done. Michelle has been a part of the Hello Gorgeous team since 2010. </marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Michelle Nugent has been in the hair industry for 18 years. She started her career in California before finally settling here in Oklahoma. Michelle is licensed in Cosmetology, Aesthetics, and Film/Photography Makeup. She is also certified in hair extensions and Keratin complex treatments.  She enjoys all aspects of the industry and especially the joy in her client’s faces when they get their hair done. Michelle has been a part of the Hello Gorgeous team since 2010. </marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -159,7 +159,7 @@
 						        <img class="img-fluid" src="img/Staff/Wendy.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Wendy Blankenship is a licensed cosmetologist of 29 years. She is talented in all styles and types of haircuts for men, women and children and specializes in military and clipper cuts. Wendy has been a part of the Hello Gorgeous team since 2015. </marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Wendy Blankenship is a licensed cosmetologist of 29 years. She is talented in all styles and types of haircuts for men, women and children and specializes in military and clipper cuts. Wendy has been a part of the Hello Gorgeous team since 2015. </marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -173,7 +173,7 @@
 						        <img class="img-fluid" src="img/Staff/Emma.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Emma Bisges is a Stillwater native and cosmetologist of 8 years. Five in Oklahoma and three of them in Alaska! Emma is always looking to further her knowledge in the art of hair and is currently enrolled in the advanced barber program at Hello Gorgeous Barber School. She specializes in men’s fades and women’s color techniques of Balayage and shadow roots and ombré. Emma has been a part of the Hello Gorgeous team since 2016</marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Emma Bisges is a Stillwater native and cosmetologist of 8 years. Five in Oklahoma and three of them in Alaska! Emma is always looking to further her knowledge in the art of hair and is currently enrolled in the advanced barber program at Hello Gorgeous Barber School. She specializes in men’s fades and women’s color techniques of Balayage and shadow roots and ombré. Emma has been a part of the Hello Gorgeous team since 2016</marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -187,7 +187,7 @@
 						        <img class="img-fluid" src="img/Staff/Robin.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Robbin Patterson is a Stillwater native as well as a graduate of Central State Beauty academy in OKC, graduate of 1989. Making her a 30-year veteran cosmetologist, holding licenses in Oklahoma and Colorado. Her passion is color and color correction and loves trying new fun colors. Robbin is very experienced in men’s and military cuts. Robbin has been a part of the Hello Gorgeous team since 2016.</marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Robbin Patterson is a Stillwater native as well as a graduate of Central State Beauty academy in OKC, graduate of 1989. Making her a 30-year veteran cosmetologist, holding licenses in Oklahoma and Colorado. Her passion is color and color correction and loves trying new fun colors. Robbin is very experienced in men’s and military cuts. Robbin has been a part of the Hello Gorgeous team since 2016.</marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -201,7 +201,7 @@
 						        <img class="img-fluid" src="img/Staff/Crystal.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Crystal Ward is a dual licensed barber/stylist. She has been a cosmetologist for 4 years and completed the advanced barber program at Hello Gorgeous Barber School in 2018. Crystal has always had a passion for hair and continues to learn new techniques and styles, keeping up with today’s trends. She specializes in men’s and women’s cuts and all things beards. Crystal has been a part of the Hello Gorgeous team since 2017.</marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Crystal Ward is a dual licensed barber/stylist. She has been a cosmetologist for 4 years and completed the advanced barber program at Hello Gorgeous Barber School in 2018. Crystal has always had a passion for hair and continues to learn new techniques and styles, keeping up with today’s trends. She specializes in men’s and women’s cuts and all things beards. Crystal has been a part of the Hello Gorgeous team since 2017.</marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -215,7 +215,7 @@
 						        <img class="img-fluid" src="img/Staff/Gib.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Gib Beard is a traditional Barber who has been a part of the Hello Gorgeous team since September of 2017. He began cutting hair at the age of 16 and has always had a deep respect for Traditional Barbering. After honing his craft at Hello Gorgeous Barbers, Stillwater’s School of Barbering, he made his home at Hello Gorgeous Salon where he offers tailored men’s haircuts and of course, traditional hot towel shaves.</marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Gib Beard is a traditional Barber who has been a part of the Hello Gorgeous team since September of 2017. He began cutting hair at the age of 16 and has always had a deep respect for Traditional Barbering. After honing his craft at Hello Gorgeous Barbers, Stillwater’s School of Barbering, he made his home at Hello Gorgeous Salon where he offers tailored men’s haircuts and of course, traditional hot towel shaves.</marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -229,7 +229,7 @@
 						        <img class="img-fluid" src="img/Staff/Brynne.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Brynne Njaa has been in the industry for 3 years and is a graduate of Hello Gorgeous Barber School advanced barber program. She loves being a barber and making the men look and feel sharp, with fresh fades and face shaves. Brynne also has a passion for women’s colors and cuts, keeping up with today’s newest styles and color techniques, she can transform your look. Brynne has been a part of the Hello Gorgeous team since 2018. </marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Brynne Njaa has been in the industry for 3 years and is a graduate of Hello Gorgeous Barber School advanced barber program. She loves being a barber and making the men look and feel sharp, with fresh fades and face shaves. Brynne also has a passion for women’s colors and cuts, keeping up with today’s newest styles and color techniques, she can transform your look. Brynne has been a part of the Hello Gorgeous team since 2018. </marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -243,7 +243,7 @@
 						        <img class="img-fluid" src="img/Staff/Andi.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Andi Brower is a licensed Barber who completed the advanced barber program at Hello Gorgeous Barber School in 2019. She is a native of Duncan, OK but has lived in Stillwater for the past 38 years. As a mother of 3 and grandmother of 1, Andi loves her family time. She has a passion for barbering and specializes in beards and edge-ups. Andi has been a Hello Gorgeous Team member since 2019.</marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Andi Brower is a licensed Barber who completed the advanced barber program at Hello Gorgeous Barber School in 2019. She is a native of Duncan, OK but has lived in Stillwater for the past 38 years. As a mother of 3 and grandmother of 1, Andi loves her family time. She has a passion for barbering and specializes in beards and edge-ups. Andi has been a Hello Gorgeous Team member since 2019.</marquee>--%>
 									 
 						        </div>
 						    </div>
