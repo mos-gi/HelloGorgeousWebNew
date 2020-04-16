@@ -7,20 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HelloGorgeousWebNew {
-    
-    
-    public partial class ContactUs {
-        
-        /// <summary>
-        /// lblBreak1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblBreak1;
-        
+namespace HelloGorgeousWebNew
+{
+
+
+    public partial class ContactUs
+    {
+
         /// <summary>
         /// lblBreak2 control.
         /// </summary>
@@ -29,7 +22,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblBreak2;
-        
+
         /// <summary>
         /// lblBreak3 control.
         /// </summary>
@@ -38,7 +31,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblBreak3;
-        
+
         /// <summary>
         /// myForm control.
         /// </summary>
@@ -47,7 +40,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm myForm;
-        
+
         /// <summary>
         /// tboxName control.
         /// </summary>
@@ -56,7 +49,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox tboxName;
-        
+
         /// <summary>
         /// tboxEmail control.
         /// </summary>
@@ -65,7 +58,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox tboxEmail;
-        
+
         /// <summary>
         /// tboxSubject control.
         /// </summary>
@@ -74,7 +67,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox tboxSubject;
-        
+
         /// <summary>
         /// textAreaMessage control.
         /// </summary>
@@ -83,7 +76,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox textAreaMessage;
-        
+
         /// <summary>
         /// BtnSendMessage control.
         /// </summary>
@@ -92,7 +85,7 @@ namespace HelloGorgeousWebNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button BtnSendMessage;
-        
+
         /// <summary>
         /// messageConfirm control.
         /// </summary>
