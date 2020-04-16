@@ -17,59 +17,59 @@ namespace HelloGorgeousWebNew
 
         }
 
-        protected void BtnSendMessage_Click(object sender, EventArgs e)
-        {
-            SqlConnection MyConnection = new SqlConnection(ConfigurationManager.ConnectionStrings["hellogorgeousConnectionString"].ConnectionString);
-            string MyInsertStatement;
-            MyInsertStatement = "INSERT into dbo.contactUs (custName, custEmail, custSubject, custMessage) VALUES (@NewCustName, @NewCustEmail, @NewCustSubject, @NewCustMessage);";
-            SqlCommand MySQLcmd = new SqlCommand(MyInsertStatement, MyConnection);
+        //protected void BtnSendMessage_Click(object sender, EventArgs e)
+        //{
+        //    SqlConnection MyConnection = new SqlConnection(ConfigurationManager.ConnectionStrings["hellogorgeousConnectionString"].ConnectionString);
+        //    string MyInsertStatement;
+        //    MyInsertStatement = "INSERT into dbo.contactUs (custName, custEmail, custSubject, custMessage) VALUES (@NewCustName, @NewCustEmail, @NewCustSubject, @NewCustMessage);";
+        //    SqlCommand MySQLcmd = new SqlCommand(MyInsertStatement, MyConnection);
 
-            MySQLcmd.Parameters.AddWithValue("@NewCustName", tboxName.Text);
-            MySQLcmd.Parameters.AddWithValue("@NewCustEmail", tboxEmail.Text);
-            MySQLcmd.Parameters.AddWithValue("@NewCustSubject", tboxSubject.Text);
-            MySQLcmd.Parameters.AddWithValue("@NewCustMessage", textAreaMessage.Text);
+        //    MySQLcmd.Parameters.AddWithValue("@NewCustName", tboxName.Text);
+        //    MySQLcmd.Parameters.AddWithValue("@NewCustEmail", tboxEmail.Text);
+        //    MySQLcmd.Parameters.AddWithValue("@NewCustSubject", tboxSubject.Text);
+        //    MySQLcmd.Parameters.AddWithValue("@NewCustMessage", textAreaMessage.Text);
 
-            MyConnection.Open();
-            //MySQLcmd.ExecuteNonQuery();
+        //    MyConnection.Open();
+        //    //MySQLcmd.ExecuteNonQuery();
 
-            try
-            {
-                int intNumberofRowsAffected;
-                intNumberofRowsAffected = MySQLcmd.ExecuteNonQuery();
+        //    try
+        //    {
+        //        int intNumberofRowsAffected;
+        //        intNumberofRowsAffected = MySQLcmd.ExecuteNonQuery();
 
-                if (intNumberofRowsAffected != 0)
-                {
-                    messageConfirm.Text = "Your message has been sent.";
-                }
-                else
-                {
-                    messageConfirm.Text = "Message not sent.";
-                }
-                MyConnection.Close();
+        //        if (intNumberofRowsAffected != 0)
+        //        {
+        //            messageConfirm.Text = "Your message has been sent.";
+        //        }
+        //        else
+        //        {
+        //            messageConfirm.Text = "Message not sent.";
+        //        }
+        //        MyConnection.Close();
 
-            }
+        //    }
 
-            catch (Exception Myexception)
-            {
-                messageConfirm.Text = Myexception.Message;
-                MyConnection.Close();
-            }
+        //    catch (Exception Myexception)
+        //    {
+        //        messageConfirm.Text = Myexception.Message;
+        //        MyConnection.Close();
+        //    }
 
-            //SmtpMail oMail = new SmtpMail("TryIt");
-            //SmtpClient oSmtp = new SmtpClient;
+        //    //SmtpMail oMail = new SmtpMail("TryIt");
+        //    //SmtpClient oSmtp = new SmtpClient;
 
-            //oMail.From = tboxEmail.Text;
-            //oMail.To = "hellogorgeoussalon04@yahoo.com";
-            //oMail.Subject = tboxSubject.Text;
-            //oMail.TextBody = textAreaMessage.Text;
+        //    //oMail.From = tboxEmail.Text;
+        //    //oMail.To = "hellogorgeoussalon04@yahoo.com";
+        //    //oMail.Subject = tboxSubject.Text;
+        //    //oMail.TextBody = textAreaMessage.Text;
 
-            //SmtpServer oServer = new SmtpServer("smtp.mail.yahoo.com");
+        //    //SmtpServer oServer = new SmtpServer("smtp.mail.yahoo.com");
 
-            //oServer.User = "hellogorgeoussalon04@yahoo.com";
-            //oServer.Password = ("Enter Password Here");
-            //oServer.Port = 465;
-            //oServer.ConnectType = SmtpConnectType.ConnectSSLAuto;
+        //    //oServer.User = "hellogorgeoussalon04@yahoo.com";
+        //    //oServer.Password = ("Enter Password Here");
+        //    //oServer.Port = 465;
+        //    //oServer.ConnectType = SmtpConnectType.ConnectSSLAuto;
 
-        }
+        //}
     }
 }
