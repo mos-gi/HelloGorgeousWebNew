@@ -69,7 +69,19 @@
         </div>
     </section>
     <!-- End banner Area -->
-
+     <style>
+  h6  {
+      font-family:sans-serif;
+    color:grey;
+  }
+  h5{
+      font-family:sans-serif;
+      color:grey;
+  }
+  h4{
+      font-family:sans-serif;
+  }
+</style>
     <div class="row">
         <div class="col-sm-3">
             <label></label>
@@ -96,7 +108,11 @@
            
             <br />
             <h4>Phone</h4>
-            <h5>405-533-3900</h5>
+           <%-- <a href=””> 
+                <h5>405-533-3900</h5>
+            </a>--%>
+            <a href="tel:405-533-3900">405-533-3900</a>
+          
 
         </div>
         <div class="col-sm-2">
