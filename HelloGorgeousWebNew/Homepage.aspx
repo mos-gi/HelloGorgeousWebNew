@@ -16,7 +16,7 @@
 		<meta charset="UTF-8">
 		<!-- Site Title -->
 		<title>Hello Gorgeous</title>
-
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
 			CSS
@@ -30,6 +30,8 @@
 			<link rel="stylesheet" href="css/jquery-ui.css">			
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
+		  
+
 		</head>
 		<body>	
 			  <header id="header" id="home">
@@ -64,15 +66,48 @@
 							</h1>
 							
 							<a href="ServicesPage.aspx" class="primary-btn squire text-uppercase mt-10">Check Out Our Services</a>
-						</div>											
+						</div>							
 					</div>
 				</div>
 			</section>
+
+			               <style>
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 70%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+</style>
 			 <div class="social d-flex justify-content-center">
-        <a href="https://www.facebook.com/Hello-Gorgeous-on-the-Strip-171349449550450/" class="mx-2">
+				<%-- <a href="#" class="fa fa-facebook"></a>--%>
+        <a href="https://www.facebook.com/Hello-Gorgeous-on-the-Strip-171349449550450/" class="fa">
           <i class="fab fa-facebook-f"></i>
         </a>
-        <a href="https://www.instagram.com/hellogorgeousonthestrip/" class="mx-2">
+				 <%--<a href="#" class="fa fa-twitter"></a>--%>
+        <a href="https://www.instagram.com/hellogorgeousonthestrip/" class="fa">
           <i class="fab fa-instagram"></i>
         </a>
       </div>
