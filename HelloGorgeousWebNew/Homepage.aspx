@@ -68,6 +68,14 @@
 					</div>
 				</div>
 			</section>
+			 <div class="social d-flex justify-content-center">
+        <a href="https://www.facebook.com/Hello-Gorgeous-on-the-Strip-171349449550450/" class="mx-2">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="https://www.instagram.com/hellogorgeousonthestrip/" class="mx-2">
+          <i class="fab fa-instagram"></i>
+        </a>
+      </div>
 			<!-- End banner Area -->
 
 

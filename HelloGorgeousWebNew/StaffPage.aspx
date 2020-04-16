@@ -87,7 +87,7 @@
 						        <img class="img-fluid" src="img/Staff/Heather.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right" >Heather opened Hello Gorgeous Salon in 2004. After having such a successful business, Heather realized the need for a barber school in the area. Hello Gorgeous Barber School opened in 2017, providing education for aspiring barbers. Heather continues her education to be a leader for her students and to maintain cutting edge theory and practice within the salon and the school.</marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right" >Heather opened Hello Gorgeous Salon in 2004. After having such a successful business, Heather realized the need for a barber school in the area. Hello Gorgeous Barber School opened in 2017, providing education for aspiring barbers. Heather continues her education to be a leader for her students and to maintain cutting edge theory and practice within the salon and the school.</marquee>--%>
 									 
 						        </div>
 						    </div>
@@ -117,7 +117,7 @@
 						        <img class="img-fluid" src="img/Staff/Rachel.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									 
-									 <marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Rachel Young has been a Barber since 2015. She wanted to expand on her barbering knowledge and career, taking advanced barber classes at Hello Gorgeous Barber School. Rachel didn’t stop there; she completed the Master Barber Instructor program in 2018 and is now one of the instructors at Hello Gorgeous Barber School.  Rachel has a passion for learning and educating in the beauty industry and specializes in the latest color trends and excels in the barber field of fades and hot shaves! Rachel has been a has been a part of the Hello Gorgeous team since 2016 and has been managing the salon since 2017. </marquee>
+									 <%--<marquee behavior="scroll" scrollamount="3" direction="up" text-align="right">Rachel Young has been a Barber since 2015. She wanted to expand on her barbering knowledge and career, taking advanced barber classes at Hello Gorgeous Barber School. Rachel didn’t stop there; she completed the Master Barber Instructor program in 2018 and is now one of the instructors at Hello Gorgeous Barber School.  Rachel has a passion for learning and educating in the beauty industry and specializes in the latest color trends and excels in the barber field of fades and hot shaves! Rachel has been a has been a part of the Hello Gorgeous team since 2016 and has been managing the salon since 2017. </marquee>--%>
 									 
 						        </div>
 						    </div>
