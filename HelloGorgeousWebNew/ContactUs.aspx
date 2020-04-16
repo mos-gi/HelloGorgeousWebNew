@@ -70,6 +70,43 @@
     </section>
     <!-- End banner Area -->
 
+    <div class="row">
+        <div class="col-sm-3">
+            <label></label>
+        </div>
+        <div class="col-sm-2">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <h4>Location</h4>
+            <h6>219 S Washington St,</h6>
+            <h6>Stillwater, OK 74074</h6>
+            <br />
+            <h4>Store Hours</h4>
+            <h5>Monday-Saturday</h5>
+            <h6>9am-9pm</h6>
+            <h5>Sunday </h5>
+            <h6>12pm-5pm</h6>
+           
+            <br />
+            <h4>Phone</h4>
+            <h5>405-533-3900</h5>
+
+        </div>
+        <div class="col-sm-2">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfOkhEoxtCbrTm4U0WP9lDW8n43FgqKU6ougy0u-dUwJG_Cfg/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+        </div>
+        <div class="col-sm-2">
+
+        </div>
+    </div>
     <!-- Start contact-page Area -->
     <section class="contact-page-area section-gap">
         <div class="container">
@@ -95,7 +132,7 @@
                         }
                     </style>
                 </div>
- 
+
             </div>
 
         </div>
