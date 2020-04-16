@@ -642,6 +642,15 @@
                     </div>
                      <div class="single-menu-list row justify-content-between align-items-center">
                         <div class="col-lg-9">
+                            <h4>All Groom packages include:</h4>
+                            <p>
+                                Complimentary beverages and consultation.
+                            </p>
+                        </div>
+                        
+                    </div>
+                     <div class="single-menu-list row justify-content-between align-items-center">
+                        <div class="col-lg-9">
                             
                                 <h2 >Bridal Packages</h2>
                             
@@ -775,6 +784,18 @@
                                 <span>$50</span>
                             </div>
                         </div>
+                    </div>
+                     <div class="single-menu-list row justify-content-between align-items-center">
+                        <div class="col-lg-9">
+                            <a href="#">
+                                <h4>All Bridal packages include:</h4>
+                            </a>
+                            <p>
+                                Consultation, bridal hair trial, and complimentary beverages in our bridal suite.
+                            </p>
+                            <p>Travel chargesof $10 a person within 30 mile radius.</p>
+                        </div>
+                        
                     </div>
 
 
