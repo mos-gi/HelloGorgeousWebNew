@@ -72,7 +72,7 @@
 			</section>
 
 			               <style>
-/* Style all font awesome icons */
+/* Style all font awesome icons rrrrrr*/
 .fa {
   padding: 20px;
   font-size: 30px;
