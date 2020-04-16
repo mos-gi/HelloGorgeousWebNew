@@ -95,11 +95,11 @@
                         }
                     </style>
                 </div>
-                <div class="row col-lg-12">
+                <%--<div class="row col-lg-12">
                     <div class="col-lg-12">
                         <asp:Label ID="lblBreak1" runat="server" Text=""></asp:Label>
                         <br />
-                    </div>
+                    </div>--%>
                 </div>
 
                 <div class="row col-lg-12">
