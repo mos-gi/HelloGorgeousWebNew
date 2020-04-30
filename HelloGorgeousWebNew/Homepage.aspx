@@ -30,7 +30,7 @@
 			<link rel="stylesheet" href="css/jquery-ui.css">			
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
-		  
+		    <link href="css/socialmedialogo.css" rel="stylesheet" />
 
 		</head>
 		<body>	
@@ -59,49 +59,20 @@
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row fullscreen d-flex justify-content-center align-items-center">
-						<div class="banner-content col-lg-10 col-md-12 justify-content-center">
+						<%--<div class="banner-content col-lg-10 col-md-12 justify-content-center">--%>
 							
 							<h1>
 										<img src="img/HELLO%20GORGEOUS%20LOGO-02.png" />
 							</h1>
 							
 							<a href="ServicesPage.aspx" class="primary-btn squire text-uppercase mt-10">Check Out Our Services</a>
-						</div>							
+						<%--</div>	--%>						
 					</div>
 				</div>
 			</section>
 
-			               <style>
-/* Style all font awesome icons */
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 70%;
-}
-
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
-
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-/* Twitter */
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-</style>
-			 <div class="social d-flex justify-content-center">
+ <div class="social d-flex justify-content-center">
+	 
 				<%-- <a href="#" class="fa fa-facebook"></a>--%>
         <a href="https://www.facebook.com/Hello-Gorgeous-on-the-Strip-171349449550450/" class="fa">
           <i class="fab fa-facebook-f"></i>
