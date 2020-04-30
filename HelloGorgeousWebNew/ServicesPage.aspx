@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="css/jquery-ui.css">
     <link rel="stylesheet" href="css/owl.carousel.css">
     <link rel="stylesheet" href="css/main.css">
+    <link href="css/socialmedialogo.css" rel="stylesheet" />
 </head>
 <body>
 
@@ -46,7 +47,7 @@
                         <li class="menu-active"><a href="Homepage.aspx">Home</a></li>
                         <li><a href="aboutus.aspx">About Us</a></li>
                         <li><a href="servicespage.aspx">Services</a></li>
-                        <li><a href="staffpage.aspx">Staff</a></li>
+                        <li><a href="HtmlPage1.html">Staff</a></li>
                         <li><a href="contactus.aspx">Contact Us</a></li>
                     </ul>
                 </nav>
@@ -804,7 +805,21 @@
 
             </div>
         </div>
-
+        <br />
+        <br />
+        <br />
+        <br />
+ <div class="social d-flex justify-content-center">
+	 
+				<%-- <a href="#" class="fa fa-facebook"></a>--%>
+        <a href="https://www.facebook.com/Hello-Gorgeous-on-the-Strip-171349449550450/" class="fa">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+				 <%--<a href="#" class="fa fa-twitter"></a>--%>
+        <a href="https://www.instagram.com/hellogorgeousonthestrip/" class="fa">
+          <i class="fab fa-instagram"></i>
+        </a>
+      </div>
     </section>
     <!-- End menu-list Area -->
 

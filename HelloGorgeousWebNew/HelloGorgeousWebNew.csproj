@@ -103,6 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\AngularCSS.css" />
+    <Content Include="css\Carousel.css" />
     <Content Include="css\jk-carousel.min.css" />
     <Content Include="css\socialmedialogo.css" />
     <Content Include="css\style.css" />

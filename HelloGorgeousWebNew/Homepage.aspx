@@ -31,7 +31,8 @@
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
 		    <link href="css/socialmedialogo.css" rel="stylesheet" />
-
+        <link href="css/Carousel.css" rel="stylesheet" />
+	
 		</head>
 		<body>	
 			  <header id="header" id="home">
@@ -46,7 +47,7 @@
 							  <li class="menu-active"><a href="Homepage.aspx">Home</a></li>
 							  <li><a href="aboutus.aspx">About Us</a></li>
 							  <li><a href="servicespage.aspx">Services</a></li>
-							  <li><a href="staffpage.aspx">Staff</a></li>											              							    							 						  			          	          
+							  <li><a href="Ht">Staff</a></li>											              							    							 						  			          	          
 							  <li><a href="contactus.aspx">Contact Us</a></li>
 							</ul>
 						</nav><!-- #nav-menu-container -->		
@@ -57,13 +58,76 @@
 			<!-- start banner Area -->
 			<section class="banner-area relative" id="home">
 				<div class="overlay overlay-bg"></div>
+				
+				<br />
+				<br />
+
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
 				<div class="container">
 					<div class="row fullscreen d-flex justify-content-center align-items-center">
 						<%--<div class="banner-content col-lg-10 col-md-12 justify-content-center">--%>
 							
-							<h1>
+							<%--<h1>
 										<img src="img/HELLO%20GORGEOUS%20LOGO-02.png" />
-							</h1>
+							</h1>--%>
+						
+						  <div class="container-fluid">
+
+
+
+                <div id="SecondCarol" class="carousel slide" data-ride="carousel" data-interval="3000" style="width:100%; height:100%">
+
+                    <ul class="carousel-indicators">
+
+                        <li data-target="#SecondCarol" data-slide-to="0" class="active"></li>
+                        <li data-target="#SecondCarol" data-slide-to="1"></li>
+                        <li data-target="#SecondCarol" data-slide-to="2"></li>
+                        <li data-target="#SecondCarol" data-slide-to="3"></li>
+
+                    </ul>
+
+                    <%-- slide show part --%>
+                    <div class="carousel-inner" style="width:100%; height:100%">
+
+
+                        <div class="carousel-item active">
+                            <img src="img/banner-bg1.jpg" id="Image4" alt="Wine4" class="d-block mx-auto img-fluid" style="object-fit:cover; width:100%;" <%--height="847" style="--%> />
+
+                        </div>
+
+                        <div class="carousel-item ">
+                            <img src="img/bg-masthead1.jpeg" id="Image1" alt="Wine1" class="d-block mx-auto img-fluid" style="object-fit:cover; width:100%;"<%--height="847" width="2300"--%> />
+
+                        </div>
+                        <div class="carousel-item ">
+                            <img src="img/bg-masthead2.jpeg" id="Image2" alt="wine2" class="d-block mx-auto img-fluid" style="width:100%;" <%--height="847" width="2300"--%> />
+
+                        </div>
+                        <div class="carousel-item ">
+                            <img src="img/bg-masthead3.jpeg" id="Image3" alt="wine3" class="d-block mx-auto img-fluid" style="width:100%;" <%--height="847" width="2300"--%> />
+                        </div>
+
+                    </div>
+
+
+                    <%-- LEFT and RIGHT controls --%>
+                    <a class="carousel-control-prev" href="#SecondCarol" data-slide="prev">
+
+                        <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#SecondCarol" data-slide="next">
+
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
+
+            </div>
 							
 							<a href="ServicesPage.aspx" class="primary-btn squire text-uppercase mt-10">Check Out Our Services</a>
 						<%--</div>	--%>						
