@@ -31,8 +31,10 @@
 			<link rel="stylesheet" href="css/jquery-ui.css">			
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
+		
 		</head>
 		<body>	
+			
 			  <header id="header" id="home">
 		  		<div class="header-top">
 		  			

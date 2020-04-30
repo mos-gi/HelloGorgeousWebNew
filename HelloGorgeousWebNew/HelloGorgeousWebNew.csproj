@@ -104,10 +104,14 @@
   <ItemGroup>
     <Content Include="css\AngularCSS.css" />
     <Content Include="css\Carousel.css" />
+    <Content Include="css\HomepageBackground.css" />
     <Content Include="css\jk-carousel.min.css" />
     <Content Include="css\socialmedialogo.css" />
     <Content Include="css\style.css" />
     <Content Include="HtmlPage1.html" />
+    <Content Include="img\jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg" />
+    <Content Include="img\kupono-kuwamura-LzgK6IMoSZM-unsplash.jpg" />
+    <Content Include="img\lorenzo-moschi-MNSf5U1gkUc-unsplash.jpg" />
     <Content Include="img\pattern-bg1.jpg" />
     <Content Include="item-template.html" />
     <Content Include="js\example.js" />

@@ -32,6 +32,7 @@
 			<link rel="stylesheet" href="css/main.css">
 		    <link href="css/socialmedialogo.css" rel="stylesheet" />
         <link href="css/Carousel.css" rel="stylesheet" />
+        <link href="css/HomepageBackground.css" rel="stylesheet" />
 	
 		</head>
 		<body>	
@@ -54,10 +55,23 @@
 			    	</div>
 			    </div>
 			  </header><!-- #header -->
-
+			 <!-- start banner Area -->
+    <section class="banner-area relative about-banner" id="home">
+        <div class="overlay overlay-bg"></div>
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="about-content col-lg-12">
+                    <%--<h1 class="text-white">Welcome	--%>		
+                    </h1>
+                    <%--<p class="text-white link-nav"><a href="homePage.aspx">Home </a><span class="lnr lnr-arrow-right"></span><a href="contactUs.aspx">Contact Us</a></p>--%>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End banner Area -->
 			<!-- start banner Area -->
-			<section class="banner-area relative" id="home">
-				<div class="overlay overlay-bg"></div>
+			<%--<section class="banner-area relative" id="home"></section>
+				<div class="overlay overlay-bg"></div>--%>
 				
 				<br />
 				<br />
@@ -91,20 +105,20 @@
 
 
                         <div class="carousel-item active">
-                            <img src="img/banner-bg1.jpg" id="Image4" alt="Wine4" class="d-block mx-auto img-fluid" style="object-fit:cover; width:100%;" <%--height="847" style="--%> />
+                            <img src="img/HELLO%20GORGEOUS%20LOGO-02.png" id="Image4" alt="Wine4" class="d-block mx-auto img-fluid" <%--style="object-fit:cover;"--%>  height="100" width="2300" />
 
                         </div>
 
                         <div class="carousel-item ">
-                            <img src="img/bg-masthead1.jpeg" id="Image1" alt="Wine1" class="d-block mx-auto img-fluid" style="object-fit:cover; width:100%;"<%--height="847" width="2300"--%> />
+                            <img src="img/bg-masthead1.jpeg" id="Image1" alt="Wine1" class="d-block mx-auto img-fluid" <%--style="object-fit:cover;--%> height="100" width="2300" />
 
                         </div>
                         <div class="carousel-item ">
-                            <img src="img/bg-masthead2.jpeg" id="Image2" alt="wine2" class="d-block mx-auto img-fluid" style="width:100%;" <%--height="847" width="2300"--%> />
+                            <img src="img/bg-masthead2.jpeg" id="Image2" alt="wine2" class="d-block mx-auto img-fluid" style="object-fit:cover;" height="100" width="2300" />
 
                         </div>
                         <div class="carousel-item ">
-                            <img src="img/bg-masthead3.jpeg" id="Image3" alt="wine3" class="d-block mx-auto img-fluid" style="width:100%;" <%--height="847" width="2300"--%> />
+                            <img src="img/bg-masthead3.jpeg" id="Image3" alt="wine3" class="d-block mx-auto img-fluid" style="object-fit:cover;"height="100" width="2300" />
                         </div>
 
                     </div>
@@ -128,7 +142,7 @@
 						<%--</div>	--%>						
 					</div>
 				</div>
-			</section>
+			
 
  <div class="social d-flex justify-content-center">
 	 

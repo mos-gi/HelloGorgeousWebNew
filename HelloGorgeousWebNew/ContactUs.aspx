@@ -32,6 +32,7 @@
     <link rel="stylesheet" href="css/owl.carousel.css">
     <link rel="stylesheet" href="css/main.css">
     <link href="css/socialmedialogo.css" rel="stylesheet" />
+    <link href="css/HomepageBackground.css" rel="stylesheet" />
 </head>
 <body>
     <header id="header" id="home">
