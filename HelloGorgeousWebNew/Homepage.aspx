@@ -62,13 +62,7 @@
 				<br />
 				<br />
 
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
+				<%--This is the beginnning of the carousel--%>
 				<div class="container">
 					<div class="row fullscreen d-flex justify-content-center align-items-center">
 						<%--<div class="banner-content col-lg-10 col-md-12 justify-content-center">--%>
@@ -128,6 +122,7 @@
                 </div>
 
             </div>
+						<%--This is the end of the carousel--%>
 							
 							<a href="ServicesPage.aspx" class="primary-btn squire text-uppercase mt-10">Check Out Our Services</a>
 						<%--</div>	--%>						
