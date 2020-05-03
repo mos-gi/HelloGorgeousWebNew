@@ -117,10 +117,10 @@
                     <div class="single-menu-list row justify-content-between align-items-center">
                         <div class="col-lg-9">
                             <a href="#">
-                                <h4>Foil with Haircut</h4>
+                                <h4>Shampoo and Style</h4>
                             </a>
                             <p>
-                                A highly educated stylist will create a custom color for you, using up to three different colors, foiled to create dimension and texture. Includes shampoo, cut, and style.
+                                Don't have time to do your hair? Let our highly trained stylists treat you to a luxurious shampoo and style to set off your look. 
 								
                             </p>
                         </div>
@@ -129,17 +129,17 @@
 
                             <div class="s-price col">
 
-                                <span>$95</span>
+                                <span>$25</span>
                             </div>
                         </div>
                     </div>
                     <div class="single-menu-list row justify-content-between align-items-center">
                         <div class="col-lg-9">
                             <a href="#">
-                                <h4>Partial Foil with Haircut</h4>
+                                <h4>Updo</h4>
                             </a>
                             <p>
-                                Essentially the same as above, but includes only the top of the head. For the client on the go! Includes shampoo, cut, and style.
+                                For your wedding, prom or semi-formal our team will design an updo just for the occasion! 
 								
                             </p>
                         </div>
@@ -148,25 +148,25 @@
 
                             <div class="s-price col">
 
-                                <span>$75</span>
+                                <span>$35</span>
                             </div>
                         </div>
                     </div>
                     <div class="single-menu-list row justify-content-between align-items-center">
                         <div class="col-lg-9">
                             <a href="#">
-                                <h4>Balayage/Ombré</h4>
+                                <h4>Hair Color</h4>
                             </a>
                             <p>
-                                Let our talented colorist give you a naturally blended & perfectly kissed-by-the-sun look. Haircut & style included.
-							
+                                All hair color services include a haircut and style.
+				</p>			
                         </div>
                         <div class="col-lg-3 flex-row d-flex price-size">
 
 
                             <div class="s-price col">
 
-                                <span>$110</span>
+                                <span>$105-$160</span>
                             </div>
                         </div>
                     </div>
@@ -191,10 +191,10 @@
                     <div class="single-menu-list row justify-content-between align-items-center">
                         <div class="col-lg-9">
                             <a href="#">
-                                <h4>Updo</h4>
+                                <h4>Women's Chocolate Shave</h4>
                             </a>
                             <p>
-                                For your wedding, prom or semi-formal our team will desing an updo just for the occasion. With all the latest updo styles at our disposal, we will surely give you the style you want to remember forever!
+                                Exfoliate your face with our all organic chocolate shaves. This treatment will remove all vellus hairs, improve skin texture & tone, remove 21 days of dead skin cells & many more benefits! 
 								
                             </p>
                         </div>
