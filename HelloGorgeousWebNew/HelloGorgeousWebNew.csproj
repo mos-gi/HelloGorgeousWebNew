@@ -251,13 +251,11 @@
     <Content Include="img\elements\user2.png" />
     <Content Include="img\logo.png" />
     <Content Include="img\p3.jpg" />
-    <Content Include="img\pattern-bg3.jpg" />
     <Content Include="img\play-btn.png" />
     <Content Include="img\play.png" />
     <Content Include="img\r1.png" />
     <Content Include="img\review-bg.jpg" />
     <Content Include="img\screen-bg1.png" />
-    <Content Include="img\top-banner1.jpg" />
     <Content Include="img\ui-icons_444444_256x240.png" />
     <Content Include="img\user.png" />
     <Content Include="js\easing.min.js" />
@@ -370,7 +368,6 @@
     <Content Include="fonts\Linearicons-Free.ttf" />
     <Content Include="fonts\Linearicons-Free.woff" />
     <Content Include="fonts\Linearicons-Free.woff2" />
-    <Content Include="img\.DS_Store" />
     <Content Include="img\blog\.DS_Store" />
     <Content Include="js\.DS_Store" />
     <Content Include="scss\.DS_Store" />
@@ -470,6 +467,7 @@
     <Content Include="scss\theme\_reset.scss" />
     <Content Include="scss\theme\_variables.scss" />
     <Content Include="img\Callphone.drp" />
+    <None Include="Properties\PublishProfiles\HelloGorgeousSalon - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
