@@ -45,7 +45,7 @@
 							  <li class="menu-active"><a href="Homepage.aspx">Home</a></li>
 							  <li><a href="aboutus.aspx">About Us</a></li>
 							  <li><a href="servicespage.aspx">Services</a></li>
-							  <li><a href="HtmlPage1.html">Staff</a></li>											              							    							 						  			          	          
+							 <li><a href="staffpage.aspx">Staff</a></li>											              							    							 						  			          	          
 							  <li><a href="contactus.aspx">Contact Us</a></li>
 							</ul>
 						</nav><!-- #nav-menu-container -->		
