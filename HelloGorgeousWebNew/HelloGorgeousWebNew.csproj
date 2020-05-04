@@ -367,9 +367,7 @@
     <Content Include="fonts\Linearicons-Free.ttf" />
     <Content Include="fonts\Linearicons-Free.woff" />
     <Content Include="fonts\Linearicons-Free.woff2" />
-    <Content Include="img\blog\.DS_Store" />
     <Content Include="scss\bootstrap.scss" />
-    <Content Include="scss\bootstrap\.DS_Store" />
     <Content Include="scss\bootstrap\bootstrap-grid.scss" />
     <Content Include="scss\bootstrap\bootstrap-reboot.scss" />
     <Content Include="scss\bootstrap\bootstrap.scss" />
@@ -454,7 +452,6 @@
     <Content Include="scss\bootstrap\_utilities.scss" />
     <Content Include="scss\bootstrap\_variables.scss" />
     <Content Include="scss\main.scss" />
-    <Content Include="scss\theme\.DS_Store" />
     <Content Include="scss\theme\_elements.scss" />
     <Content Include="scss\theme\_flexbox.scss" />
     <Content Include="scss\theme\_footer.scss" />
