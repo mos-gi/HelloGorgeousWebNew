@@ -105,15 +105,25 @@
     <Content Include="css\AngularCSS.css" />
     <Content Include="css\Carousel.css" />
     <Content Include="css\HomepageBackground.css" />
+    <Content Include="css\HtmlPageBackground.css" />
     <Content Include="css\jk-carousel.min.css" />
     <Content Include="css\md-card.carousel.css" />
     <Content Include="css\socialmedialogo.css" />
     <Content Include="css\style.css" />
     <Content Include="HtmlPage1.html" />
+    <Content Include="img\69417349_2565579490127422_4009610484897546240_n.jpg" />
+    <Content Include="img\Callphone.jpg" />
+    <Content Include="img\dan-gold-07AAmZ1dECU-unsplash.jpg" />
     <Content Include="img\jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg" />
     <Content Include="img\kupono-kuwamura-LzgK6IMoSZM-unsplash.jpg" />
     <Content Include="img\lorenzo-moschi-MNSf5U1gkUc-unsplash.jpg" />
     <Content Include="img\pattern-bg1.jpg" />
+    <Content Include="img\PurpleHighlight.jpg" />
+    <Content Include="img\sche.jpg" />
+    <Content Include="img\scheduel.jpg" />
+    <Content Include="img\Schedule img.jpg" />
+    <Content Include="img\shari-sirotnak-oM5YoMhTf8E-unsplash.jpg" />
+    <Content Include="img\tested positive.jpg" />
     <Content Include="item-template.html" />
     <Content Include="js\example.js" />
     <Content Include="js\JavaScript.js" />
@@ -247,17 +257,9 @@
     <Content Include="img\r1.png" />
     <Content Include="img\review-bg.jpg" />
     <Content Include="img\screen-bg1.png" />
-    <Content Include="img\t1.jpg" />
-    <Content Include="img\t1.png" />
-    <Content Include="img\t2.jpg" />
-    <Content Include="img\t2.png" />
-    <Content Include="img\t3.jpg" />
-    <Content Include="img\t3.png" />
-    <Content Include="img\t4.jpg" />
     <Content Include="img\top-banner1.jpg" />
     <Content Include="img\ui-icons_444444_256x240.png" />
     <Content Include="img\user.png" />
-    <Content Include="img\video-bg.jpg" />
     <Content Include="js\easing.min.js" />
     <Content Include="js\hoverIntent.js" />
     <Content Include="js\jquery-ui.js" />
@@ -467,6 +469,7 @@
     <Content Include="scss\theme\_mixins.scss" />
     <Content Include="scss\theme\_reset.scss" />
     <Content Include="scss\theme\_variables.scss" />
+    <Content Include="img\Callphone.drp" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -95,8 +95,8 @@
 
                         <li data-target="#SecondCarol" data-slide-to="0" class="active"></li>
                         <li data-target="#SecondCarol" data-slide-to="1"></li>
-                        <li data-target="#SecondCarol" data-slide-to="2"></li>
-                        <li data-target="#SecondCarol" data-slide-to="3"></li>
+                    <%--    <li data-target="#SecondCarol" data-slide-to="2"></li>--%>
+                        <%--<li data-target="#SecondCarol" data-slide-to="3"></li>--%>
 
                     </ul>
 
@@ -105,21 +105,21 @@
 
 
                         <div class="carousel-item active">
-                            <img src="img/HELLO%20GORGEOUS%20LOGO-02.png" id="Image4" alt="Wine4" class="d-block mx-auto img-fluid" <%--style="object-fit:cover;"--%>  height="100" width="2300" />
+                            <img src="img/HELLO%20GORGEOUS%20LOGO-02.png" id="Image4" alt="Wine4" class="d-block mx-auto img-fluid" style="object-fit:cover;" height="100" width="2300" />
 
                         </div>
 
                         <div class="carousel-item ">
-                            <img src="img/bg-masthead1.jpeg" id="Image1" alt="Wine1" class="d-block mx-auto img-fluid" <%--style="object-fit:cover;--%> height="100" width="2300" />
+                               <img src="img/Callphone.jpg"  id="Image1" alt="Wine1" class="d-block mx-auto img-fluid" style="object-fit:cover;" height="100" width="2300" />
 
                         </div>
-                        <div class="carousel-item ">
-                            <img src="img/bg-masthead2.jpeg" id="Image2" alt="wine2" class="d-block mx-auto img-fluid" style="object-fit:cover;" height="100" width="2300" />
+                        <%--<div class="carousel-item ">
+                           <img src="img/dan-gold-07AAmZ1dECU-unsplash.jpg"    id="Image2" alt="wine2" class="d-block mx-auto img-fluid" style="object-fit:cover;" height="100" width="2300" />
 
-                        </div>
-                        <div class="carousel-item ">
-                            <img src="img/bg-masthead3.jpeg" id="Image3" alt="wine3" class="d-block mx-auto img-fluid" style="object-fit:cover;"height="100" width="2300" />
-                        </div>
+                        </div>--%>
+                       <%-- <div class="carousel-item ">
+                              id="Image3" alt="wine3" class="d-block mx-auto img-fluid" style="object-fit:cover;"height="100" width="2300" />
+                        </div>--%>
 
                     </div>
 

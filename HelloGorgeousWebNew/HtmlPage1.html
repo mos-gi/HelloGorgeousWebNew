@@ -17,7 +17,8 @@
     <script src="js/jk-carousel.min.js"></script>
     <!--<script src="script.js"> images are converted to links </script-->
     <script src="js/script.js"></script>
-
+    
+    <link href="css/HomepageBackground.css" rel="stylesheet" />
     <link href="css/socialmedialogo.css" rel="stylesheet" />
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -53,6 +54,7 @@
 </head>
 
 <body ng-controller="MyCtrl">
+
     <header id="header">
         <div class="header-top">
 
@@ -91,31 +93,31 @@
     <br />
     <br />
     <br />
-    <md-card layout="column" layout-align="center center" style="padding-bottom: 100px">
+    <md-card layout="column" layout-align="center center" style="background-image: url('img/lorenzo-moschi-MNSf5U1gkUc-unsplash.jpg');">
         <h1>Meet our Staff</h1>
         <br />
         <br />
         <br />
         <br />
         <jk-carousel data="dataArray"
-
-                     item-template-url="'item-template.html'" 
+                     item-template-url="'item-template.html'"
                      max-width="500"
                      max-height="500"
                      auto-slide="true"
                      auto-slide-time="5000">
         </jk-carousel>
+        <div class="social d-flex justify-content-center">
+            <!-- Add icon library -->
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+            <!-- Add font awesome icons -->
+            <a href="https://www.facebook.com/Hello-Gorgeous-on-the-Strip-171349449550450/" class="fa fa-facebook"></a>
+            <a href="https://www.instagram.com/hellogorgeousonthestrip/" class="fa fa-twitter"></a>
+        </div>
     </md-card>
 
 
-    <div class="social d-flex justify-content-center">
-        <!-- Add icon library -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-        <!-- Add font awesome icons -->
-        <a href="https://www.facebook.com/Hello-Gorgeous-on-the-Strip-171349449550450/" class="fa fa-facebook"></a>
-        <a href="https://www.instagram.com/hellogorgeousonthestrip/" class="fa fa-twitter"></a>
-    </div>
+   
 </body>
    
 
