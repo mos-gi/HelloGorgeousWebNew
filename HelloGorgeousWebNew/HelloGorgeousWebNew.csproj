@@ -356,7 +356,6 @@
     <Content Include="vendor\jquery\jquery.min.map" />
     <Content Include="vendor\jquery\jquery.slim.min.map" />
     <Content Include="MasterPage.Master" />
-    <Content Include="css\.DS_Store" />
     <Content Include="css\bootstrap.map" />
     <Content Include="css\main.map" />
     <Content Include="fonts\fontawesome-webfont.eot" />
@@ -369,8 +368,6 @@
     <Content Include="fonts\Linearicons-Free.woff" />
     <Content Include="fonts\Linearicons-Free.woff2" />
     <Content Include="img\blog\.DS_Store" />
-    <Content Include="js\.DS_Store" />
-    <Content Include="scss\.DS_Store" />
     <Content Include="scss\bootstrap.scss" />
     <Content Include="scss\bootstrap\.DS_Store" />
     <Content Include="scss\bootstrap\bootstrap-grid.scss" />
