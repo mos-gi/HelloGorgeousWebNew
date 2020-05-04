@@ -1,4 +1,4 @@
-﻿// Code goes here
+﻿// Image code goes here, images have been uploaded to imgur.com
 
 angular.module('myApp', ['ngMaterial', 'jkAngularCarousel'])
 
